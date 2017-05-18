@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+
+export(
+  "filter.for.cosmic.cancer.gene.census",
+  "import.cosmic.cancer.gene.census.data"
+  );
